@@ -10,7 +10,7 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 ## Contents
 
-| Title | Speaker | tutorial slides 
+| Title | Speaker | Tutorial Slides 🔥
 | :--- | :---------- | :---
 |**Specializing Large Models for Domain-Specific Vision Tasks** | Wen-Huang Cheng | -
 |**AIGC for Image and Video Generation**  | Shuai Yang | [PDF](https://github.com/williamyang1991/ISCAS_Tutorial/blob/main/JiayingLiu_ISCAS-2024_Tutorial-Restoration-share.pdf)
@@ -142,3 +142,5 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [Palette](https://iterative-refinement.github.io/palette/) (SIGGRAPH22)
 - [UCDIR](https://zhangyi-3.github.io/project/UCDIR/) (NeurIPS23)
 - [GDP](https://generativediffusionprior.github.io/) (CVPR23)
+
+
