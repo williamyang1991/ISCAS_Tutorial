@@ -16,6 +16,9 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 
 ## AIGC for Image and Video Generation
+
+![overview1](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/8d630440-d424-4ceb-bf7c-013e22669d89)
+
 - [Preliminary](#preliminary)
 - [Image Diffusion Model](#image)
 - [Image Supporting Model](#support)
@@ -29,6 +32,9 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
   - [Zero-shot Video Model](#video3)
 
 ## Employing Diffusion Models for Low-level Vision
+
+![overview5](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/e06f7d2d-8117-4032-8002-da233fcc1268)
+
 - [Diffusion for Image Restoration](#restore)
   - [Training-based](#restore1)
   - [Sampling-based](#restore2)
