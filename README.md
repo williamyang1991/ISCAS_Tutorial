@@ -44,6 +44,8 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [Unified Image Restoration and Enhancement](#unified-image-restoration-and-enhancement)
 
 
+## Awesome Techniques Introduced in the Tutorial
+
 ### Preliminary
 - [DDPM](https://hojonathanho.github.io/diffusion/) (NeurIPS20)
 - [DDIM](https://github.com/ermongroup/ddim) (ICLR21)
