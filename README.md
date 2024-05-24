@@ -143,4 +143,7 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [UCDIR](https://zhangyi-3.github.io/project/UCDIR/) (NeurIPS23)
 - [GDP](https://generativediffusionprior.github.io/) (CVPR23)
 
+<br>
 
+## Acknowledgments
+Thanks to [Wenjing Wang](https://daooshee.github.io/website/), [Yiyang Ma](https://realpasu.github.io/) and [Zejia Fan](https://zahrafan.github.io/) for their supports during the preparation of the slides.
