@@ -46,23 +46,23 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 ### Preliminary
 - [DDPM](https://hojonathanho.github.io/diffusion/) (NeurIPS20)
-- DDIM (ICLR21)
-- Classifier guidance (NeurIPS21)
-- Classifier-free guidance (NeurIPSW21)
+- [DDIM](https://github.com/ermongroup/ddim) (ICLR21)
+- [Classifier guidance](https://github.com/openai/guided-diffusion) (NeurIPS21)
+- [Classifier-free guidance](https://arxiv.org/abs/2207.12598) (NeurIPSW21)
 ### Image Diffusion Model
 #### DALLE Series
-- DALLE2
-- DALLE3
+- [DALLE2](https://openai.com/dall-e-2/)
+- [DALLE3](https://openai.com/index/dall-e-3/)
 #### Stable Diffusion Series
-- Latent Diffusion Model (CVPR22)
-- SD 1.x
-- SD 2.x
-- SD XL (ICLR24)
-- SD XL Turbo
-- SD Cascade
-- SD 3
+- [Latent Diffusion Model](https://github.com/CompVis/latent-diffusion) (CVPR22)
+- [SD 1.x](https://github.com/runwayml/stable-diffusion)
+- [SD 2.x](https://github.com/Stability-AI/stablediffusion)
+- [SD XL](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) (ICLR24)
+- [SD XL Turbo](https://huggingface.co/stabilityai/sdxl-turbo)
+- [SD Cascade](https://github.com/Stability-AI/StableCascade) (ICLR24)
+- [SD 3](https://stability.ai/news/stable-diffusion-3)
 #### Others
-- Midjourney
+- [Midjourney](https://www.midjourney.com/home)
 ### Image Supporting Model
 #### Pre-trained Prior
 - [Repaint](https://sde-image-editing.github.io/) (CVPR22)
@@ -80,13 +80,13 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [ControlNet](https://github.com/lllyasviel/ControlNet) (ICCV23)
 - [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) (AAAI24)
 ### Video Diffusion Model
-- VDM (NeurIPS22)
-- Make-A-Video (ICLR23)
-- Imagen Video 
-- Video LDM (CVPR23)
-- HD-VG-130M (dataset)
-- Panda-70M (CVPR24, dataset)
-- Sora
+- [VDM](https://video-diffusion.github.io/) (NeurIPS22)
+- [Make-A-Video](https://makeavideo.studio/) (ICLR23)
+- [Imagen Video](https://imagen.research.google/video/) 
+- [Video LDM](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) (CVPR23)
+- [HD-VG-130M](https://github.com/daooshee/HD-VG-130M) (dataset)
+- [Panda-70M](https://snap-research.github.io/Panda-70M/) (CVPR24, dataset)
+- [Sora](https://openai.com/index/sora/)
 #### Data-driven Video Model
 #### One-shot Video Model
 - [Tune-A-Video](https://github.com/showlab/Tune-A-Video) (ICCV23)
