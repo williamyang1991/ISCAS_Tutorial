@@ -111,27 +111,27 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 ### Diffusion for Image Restoration
 #### Training-based
-- SR3 (TPAMI22)
-- StableSR
-- DiffIR (ICCV23)
+- [SR3](https://iterative-refinement.github.io/) (TPAMI22)
+- [StableSR](https://iceclear.github.io/projects/stablesr/)
+- [DiffIR](https://github.com/Zj-BinXia/DiffIR) (ICCV23)
 #### Sampling-based
-- DDRM (NeurIPS22)
-- DiffPIR (CVPR23)
-- GDP (CVPR23)
-- DPS (ICLR23)
-- XXX (ICLR24)
+- [DDRM](https://ddrm-ml.github.io/) (NeurIPS22)
+- [DiffPIR](https://yuanzhi-zhu.github.io/DiffPIR/) (CVPRW23)
+- [GDP](https://generativediffusionprior.github.io/) (CVPR23)
+- [DPS](https://dps2022.github.io/diffusion-posterior-sampling-page/) (ICLR23)
+- [BoostDiffSR](https://arxiv.org/abs/2305.15357) (ICLR24)
 ### Diffusion for Low-light Enhancement
 #### Human Vision
 ##### Acceleration
-- PyDiff (IJCAI23)
-- DiffLL (TOG23)
+- [PyDiff](https://github.com/limuloo/PyDIff) (IJCAI23)
+- [DiffLL](https://github.com/JianghaiSCU/Diffusion-Low-Light) (TOG23)
 ##### Interpretability
-- Diff-Retinex (ICCV23)
-- ExposureDiffusion (ICCV23)
+- [Diff-Retinex](https://arxiv.org/abs/2308.13164) (ICCV23)
+- [ExposureDiffusion](https://github.com/wyf0912/ExposureDiffusion) (ICCV23)
+- [QuadPrior](https://daooshee.github.io/QuadPrior-Website/) (CVPR24)
 #### Machine Vision
-- DiD (WAIC24)
-- (CVPR24)
+- [DiD](https://ccnguyen.github.io/diffusion-in-the-dark/) (WACV24)
 ### Unified Image Restoration and Enhancement
-- Palette (SIGGRAPH22)
-- XXXX (NeurIPS23)
-- GDP (CVPR23)
+- [Palette](https://iterative-refinement.github.io/palette/) (SIGGRAPH22)
+- [UCDIR](https://zhangyi-3.github.io/project/UCDIR/) (NeurIPS23)
+- [GDP](https://generativediffusionprior.github.io/) (CVPR23)
