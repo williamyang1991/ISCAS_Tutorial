@@ -80,6 +80,7 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [ControlNet](https://github.com/lllyasviel/ControlNet) (ICCV23)
 - [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) (AAAI24)
 ### Video Diffusion Model
+#### Data-driven Video Model
 - [VDM](https://video-diffusion.github.io/) (NeurIPS22)
 - [Make-A-Video](https://makeavideo.studio/) (ICLR23)
 - [Imagen Video](https://imagen.research.google/video/) 
@@ -87,7 +88,6 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [HD-VG-130M](https://github.com/daooshee/HD-VG-130M) (dataset)
 - [Panda-70M](https://snap-research.github.io/Panda-70M/) (CVPR24, dataset)
 - [Sora](https://openai.com/index/sora/)
-#### Data-driven Video Model
 #### One-shot Video Model
 - [Tune-A-Video](https://github.com/showlab/Tune-A-Video) (ICCV23)
 - [Edit-A-Video](https://edit-a-video.github.io/) (ACML23)
