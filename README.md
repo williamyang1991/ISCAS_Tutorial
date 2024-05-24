@@ -1,4 +1,4 @@
-![image](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/69f863f0-0152-4a47-8e64-643bddb6d636)![image](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/3900ebd7-7526-4075-9569-bf8ac60b789e)## New Era of Artificial Intelligence: <br> Unleashing the Power of Large Models in Visual Applications
+## New Era of Artificial Intelligence: <br> Unleashing the Power of Large Models in Visual Applications
 
 **ISCAS 2024 Tutorial** (selected for IEEE CASS Continuing Education) <br>
 [Jiaying Liu](http://www.wict.pku.edu.cn/struct/people/liujiaying.html), [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/), and [Shuai Yang](https://williamyang1991.github.io/)<br>
