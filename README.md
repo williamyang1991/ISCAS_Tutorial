@@ -12,12 +12,23 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 | Title | Speaker | Tutorial Slides 🔥
 | :--- | :---------- | :---
-|**Specializing Large Models for Domain-Specific Vision Tasks** | Wen-Huang Cheng | -
+|**Specializing Large Models for Domain-Specific Vision Tasks** | Wen-Huang Cheng | [PDF](https://github.com/williamyang1991/ISCAS_Tutorial/blob/main/WenhuangCheng_ISCAS-2024-Tutorial-DSVT.pdf)
 |**AIGC for Image and Video Generation**  | Shuai Yang | [PDF](https://github.com/williamyang1991/ISCAS_Tutorial/blob/main/ShuaiYang_ISCAS-2024_Tutorial-Generation-share.pdf)
 |**Employing Diffusion Models for Low-level Vision** | Jiaying Liu | [PDF](https://github.com/williamyang1991/ISCAS_Tutorial/blob/main/JiayingLiu_ISCAS-2024_Tutorial-Restoration-share.pdf)
 
 <br>
 
+## Specializing Large Models for Domain-Specific Vision Tasks
+
+![overview3](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/1bac37fb-0b81-4227-b8db-2d6fc965887f)
+
+Strategies for Domain-Specific Vision Tasks
+- [Fine-tuning](#fine-tuning)
+- [Visual-Prompt Tuning](#visual-prompt-tuning)
+- [Visual Instruction Tuning](#visual-instruction-tuning)
+- [Open Problems](#open-problems)
+
+<br>
 
 ## AIGC for Image and Video Generation
 
@@ -37,6 +48,7 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 <br>
 
+
 ## Employing Diffusion Models for Low-level Vision
 
 ![overview5](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/e06f7d2d-8117-4032-8002-da233fcc1268)
@@ -52,6 +64,29 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 <br><br>
 
 ## Awesome Techniques Introduced in the Tutorial
+
+### Fine-tuning
+- [Side-Tuning](https://sidetuning.berkeley.edu/) (ECCV20)
+- [TinyTL](https://github.com/mit-han-lab/tinyml/tree/master) (NeurIPS20)
+- [MoCo v3](https://github.com/facebookresearch/moco-v3) (ICCV21)
+- [VisE](https://github.com/KMnP/vise) (ICCV21)
+### Visual-Prompt Tuning
+- [VPT](https://github.com/KMnP/vpt) (ECCV22)
+- [CoOp](https://github.com/KaiyangZhou/CoOp) (IJCV22)
+- [CoCoOp](https://github.com/KaiyangZhou/CoOp) (CVPR22)
+- [TaskRes](https://github.com/geekyutao/TaskRes) (CVPR23)
+### Visual Instruction Tuning
+- [EmoVIT](https://github.com/aimmemotion/emovit) (CVPR24)
+- [EmoSet](https://vcc.tech/EmoSet) (ICCV23)
+- [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) (NeurIPS23)
+### Open Problems
+#### Hallucination
+- [A Survey on Hallucination](https://arxiv.org/abs/2402.00253)
+#### Long-context Modeling
+- [BLIVA](https://github.com/mlpc-ucsd/BLIVA) (AAAI24)
+- [Leave No Context Behind](https://arxiv.org/abs/2404.07143)
+#### Robust Automatic Evaluation
+- [CLIPScore](https://github.com/jmhessel/clipscore) (EMNLP21)
 
 ### Preliminary
 - [DDPM](https://hojonathanho.github.io/diffusion/) (NeurIPS20)
