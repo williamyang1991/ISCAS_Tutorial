@@ -36,11 +36,11 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 ![overview5](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/e06f7d2d-8117-4032-8002-da233fcc1268)
 
 - [Diffusion for Image Restoration](#diffusion-for-image-restoration)
-  - [Training-based](#restore1)
-  - [Sampling-based](#restore2)
+  - [Training-based](#training-based)
+  - [Sampling-based](#sampling-based)
 - [Diffusion for Low-light Enhancement](#diffusion-for-low-light-enhancement)
-  - [Human Vision](#enhance1)
-  - [Machine Vision](#enhance2)
+  - [Human Vision](#human-vision)
+  - [Machine Vision](#machine-vision)
 - [Unified Image Restoration and Enhancement](#unified-image-restoration-and-enhancement)
 
 
@@ -107,3 +107,31 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [TokenFlow](https://diffusion-tokenflow.github.io/) (ICLR24)
 - [FLATTEN](https://flatten-video-editing.github.io/) (ICLR24)
 - [VidToMe](https://vidtome-diffusion.github.io/) (CVPR24)
+
+
+### Diffusion for Image Restoration
+#### Training-based
+- SR3 (TPAMI22)
+- StableSR
+- DiffIR (ICCV23)
+#### Sampling-based
+- DDRM (NeurIPS22)
+- DiffPIR (CVPR23)
+- GDP (CVPR23)
+- DPS (ICLR23)
+- XXX (ICLR24)
+### Diffusion for Low-light Enhancement
+#### Human Vision
+##### Acceleration
+- PyDiff (IJCAI23)
+- DiffLL (TOG23)
+##### Interpretability
+- Diff-Retinex (ICCV23)
+- ExposureDiffusion (ICCV23)
+#### Machine Vision
+- DiD (WAIC24)
+- (CVPR24)
+### Unified Image Restoration and Enhancement
+- Palette (SIGGRAPH22)
+- XXXX (NeurIPS23)
+- GDP (CVPR23)
