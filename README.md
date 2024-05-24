@@ -6,6 +6,8 @@
 
 This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Artificial Intelligence: Unleashing the Power of Large Models in Visual Applications`
 
+<br>
+
 ## Contents
 
 | Title | Speaker | tutorial slides 
@@ -13,6 +15,8 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 |**Specializing Large Models for Domain-Specific Vision Tasks** | Wen-Huang Cheng | -
 |**AIGC for Image and Video Generation**  | Shuai Yang | [PDF](https://github.com/williamyang1991/ISCAS_Tutorial/blob/main/JiayingLiu_ISCAS-2024_Tutorial-Restoration-share.pdf)
 |**Employing Diffusion Models for Low-level Vision** | Jiaying Liu | [PDF](https://github.com/williamyang1991/ISCAS_Tutorial/blob/main/ShuaiYang_ISCAS-2024_Tutorial-Generation-share.pdf)
+
+<br>
 
 
 ## AIGC for Image and Video Generation
@@ -31,6 +35,8 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
   - [One-shot Video Model](#one-shot-video-model)
   - [Zero-shot Video Model](#zero-shot-video-model)
 
+<br>
+
 ## Employing Diffusion Models for Low-level Vision
 
 ![overview5](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/e06f7d2d-8117-4032-8002-da233fcc1268)
@@ -43,6 +49,7 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
   - [Machine Vision](#machine-vision)
 - [Unified Image Restoration and Enhancement](#unified-image-restoration-and-enhancement)
 
+<br><br>
 
 ## Awesome Techniques Introduced in the Tutorial
 
