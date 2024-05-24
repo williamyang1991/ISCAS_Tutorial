@@ -19,11 +19,20 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 - [Preliminary](#preliminary)
 - [Image Diffusion Model](#image)
 - [Image Supporting Model](#support)
+  - [Pre-trained Prior](#prior)
+  - [Image Editing](#edit)
+  - [Customization](#customize)
+  - [Control](#control)
 - [Video Diffusion Model](#video)
   - [Data-driven Video Model](#video1)
   - [One-shot Video Model](#video2)
   - [Zero-shot Video Model](#video3)
 
-
-
 ## Employing Diffusion Models for Low-level Vision
+- [Diffusion for Image Restoration](#restore)
+  - [Training-based](#restore1)
+  - [Sampling-based](#restore2)
+- [Diffusion for Low-light Enhancement](#enhance)
+  - [Human Vision](#enhance1)
+  - [Machine Vision](#enhance2)
+- [Unified Image Restoration and Enhancement](#unified)
