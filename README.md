@@ -1,4 +1,4 @@
-## New Era of Artificial Intelligence: <br> Unleashing the Power of Large Models in Visual Applications
+![image](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/69f863f0-0152-4a47-8e64-643bddb6d636)![image](https://github.com/williamyang1991/ISCAS_Tutorial/assets/18130694/3900ebd7-7526-4075-9569-bf8ac60b789e)## New Era of Artificial Intelligence: <br> Unleashing the Power of Large Models in Visual Applications
 
 **ISCAS 2024 Tutorial** (selected for IEEE CASS Continuing Education) <br>
 [Jiaying Liu](http://www.wict.pku.edu.cn/struct/people/liujiaying.html), [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/), and [Shuai Yang](https://williamyang1991.github.io/)<br>
@@ -45,62 +45,63 @@ This repository prodives the slides of our ISCAS 2024 tutorial on `New Era of Ar
 
 
 ### Preliminary
-DDPM
-DDIM (ICLR21)
-Classifier guidance (NeurIPS21)
-Classifier-free guidance (NeurIPSW21)
-
+- [DDPM](https://hojonathanho.github.io/diffusion/) (NeurIPS20)
+- DDIM (ICLR21)
+- Classifier guidance (NeurIPS21)
+- Classifier-free guidance (NeurIPSW21)
 ### Image Diffusion Model
-DALLE2
-Latent Diffusion Model (CVPR22)
+#### DALLE Series
+- DALLE2
+- DALLE3
 #### Stable Diffusion Series
-SD 1.x
-SD 2.x
-SD XL (ICLR24)
-SD XL Turbo
-SD Cascade
-SD 3
-DALLE3
-Midjourney
+- Latent Diffusion Model (CVPR22)
+- SD 1.x
+- SD 2.x
+- SD XL (ICLR24)
+- SD XL Turbo
+- SD Cascade
+- SD 3
+#### Others
+- Midjourney
 ### Image Supporting Model
 #### Pre-trained Prior
-Repaint (CVPR22)
-SDEdit (CVPR22)
+- [Repaint](https://sde-image-editing.github.io/) (CVPR22)
+- [SDEdit](https://github.com/andreas128/RePaint) (CVPR22)
 #### Image Editing
-Prompt-to-Promt (ICLR23)
-Plug-and-Play (CVPR23)
-Null-text Inversion (CVPR23)
+- [Prompt-to-Promt](https://github.com/google/prompt-to-prompt) (ICLR23)
+- [Plug-and-Play](https://pnp-diffusion.github.io/) (CVPR23)
+- [Null-text Inversion](https://null-text-inversion.github.io/) (CVPR23)
 #### Model Customization
-Textual Inversion (ICLR23)
-Dream Booth (CVPR23)
-LoRA (ICLR22)
-Imagic (CVPR23)
+- [Textual Inversion](https://textual-inversion.github.io/) (ICLR23)
+- [Dream Booth](https://dreambooth.github.io/) (CVPR23)
+- [LoRA](https://github.com/cloneofsimo/lora) (ICLR22)
+- [Imagic](https://imagic-editing.github.io/) (CVPR23)
 #### Adding Control
-ControlNet (ICCV23)
-T2I Adapter (AAAI24)
+- [ControlNet](https://github.com/lllyasviel/ControlNet) (ICCV23)
+- [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) (AAAI24)
 ### Video Diffusion Model
-VDM (NeurIPS22)
-Make-A-Video (ICLR23)
-Imagen Video 
-Video LDM (CVPR23)
-HD-VG-130M (dataset)
-Panda-70M (CVPR24, dataset)
-Sora
+- VDM (NeurIPS22)
+- Make-A-Video (ICLR23)
+- Imagen Video 
+- Video LDM (CVPR23)
+- HD-VG-130M (dataset)
+- Panda-70M (CVPR24, dataset)
+- Sora
 #### Data-driven Video Model
 #### One-shot Video Model
-Tune-A-Video (ICCV23)
-Edit-A-Video (ACML 23)
-Video-P2P (CVPR24)
+- [Tune-A-Video](https://github.com/showlab/Tune-A-Video) (ICCV23)
+- [Edit-A-Video](https://edit-a-video.github.io/) (ACML23)
+- [Video-P2P](https://video-p2p.github.io/) (CVPR24)
 #### Zero-shot Video Model
 ##### Inversion-free model
-Text2Video-Zero (ICCV23)
-ControlVideo (ICLR24)
-Rerender-A-Video (SIGGRAPH Asia23)
-FRESCO (CVPR24)
-Fairy (CVPR24)
+- [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) (ICCV23)
+- [ControlVideo](https://github.com/YBYBZhang/ControlVideo) (ICLR24)
+- [Rerender-A-Video](https://www.mmlab-ntu.com/project/rerender/) (SIGGRAPH Asia23)
+- [FRESCO](https://www.mmlab-ntu.com/project/fresco/) (CVPR24)
+- [Fairy](https://fairy-video2video.github.io/) (CVPR24)
 ##### Inversion-based model
-FateZero (ICCV23)
-Pixel2Video (ICCV23)
-TokenFlow (ICLR24)
-FLATTEN (ICLR24)
-VidToMe (CVPR24)
+- [FateZero](https://github.com/ChenyangQiQi/FateZero) (ICCV23)
+- [Pixel2Video](https://duyguceylan.github.io/pix2video.github.io/) (ICCV23)
+- [TokenFlow](https://diffusion-tokenflow.github.io/) (ICLR24)
+- [FLATTEN](https://flatten-video-editing.github.io/) (ICLR24)
+- [VidToMe](https://vidtome-diffusion.github.io/) (CVPR24)
