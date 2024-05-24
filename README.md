@@ -181,4 +181,4 @@ Strategies for Domain-Specific Vision Tasks
 <br>
 
 ## Acknowledgments
-Thanks to [Wenjing Wang](https://daooshee.github.io/website/), [Yiyang Ma](https://realpasu.github.io/) and [Zejia Fan](https://zahrafan.github.io/) for their supports during the preparation of the slides.
+Thanks to [Wenjing Wang](https://daooshee.github.io/website/), [Yiyang Ma](https://realpasu.github.io/), [Zejia Fan](https://zahrafan.github.io/) and [Haowei Kuang](https://sustechellison.github.io/ellison_kuang.github.com/) for their supports during the preparation of the slides.
